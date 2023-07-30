@@ -11,4 +11,4 @@
 
 
 ### When the temprature is below 25°C the icon is clouds.  
-![Uploading second-weather-app-1.png…]()
+![second-weather-app-1](https://github.com/dbadiger/new-weather-app/assets/140099027/b7802747-2901-43a9-9f94-2efe8c3cd3be)
