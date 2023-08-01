@@ -2,7 +2,7 @@
 
 #### This weather application is built using html, css, and javascript. to fetch the weather data of various cities we used rapid api. one of the main feature of this application is depending on weather conditions the icon will change.
 
-## Visit now: 
+## Visit now: https://dbadiger.github.io/new-weather-app/
 
 ## Some sample images
 
